@@ -1,3 +1,5 @@
+# Pytest sample
+## Directory structure
 ```
 .
 ├── src
@@ -10,4 +12,8 @@
     ├── features
     └── models
         └── test_app1.py
+```
+## Command
+```
+python -m pytest -s tests
 ```
