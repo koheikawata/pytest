@@ -17,7 +17,7 @@
 ```
 python -m pytest -s tests
 ```
-<br>
+
 coverage
 ```
 pytest -v --cov=src tests/
